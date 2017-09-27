@@ -1,6 +1,6 @@
 # H34RTB34T
 
-- DIY Electrocardiography
+- DIY Electrocardiogram
 - Signal acquisition using Arduino.
 - Signal processing in MATLAB.
 
