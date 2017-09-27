@@ -1,4 +1,4 @@
-# H34RDB34T
+# H34RTB34T
 
 - DIY Electrocardiography
 - Signal acquisition using Arduino.
