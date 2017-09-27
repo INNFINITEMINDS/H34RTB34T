@@ -1,6 +1,7 @@
 # H34RTB34T
 
-- DIY Electrocardiogram
+DIY Electrocardiogram:
+- Design of electronics hardware using Fritzing.
 - Signal acquisition using Arduino.
 - Signal processing in MATLAB.
 
